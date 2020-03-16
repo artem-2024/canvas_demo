@@ -38,6 +38,7 @@ class Draw @JvmOverloads constructor(
             //画前景
             //it.drawColor(Color.parseColor("#88880000"))
 
+
             //画圆
             it.drawCircle(300f, 300f, 200f, paint)
 
