@@ -8,6 +8,7 @@ import android.view.View
 /**
  * 2020/03/13
  * 学习资料来源于扔物线的自定义view课程和其他博客
+ *
  */
 class Draw @JvmOverloads constructor(
     context: Context, attrs: AttributeSet? = null, defStyleAttr: Int = 0
