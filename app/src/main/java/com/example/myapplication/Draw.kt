@@ -30,6 +30,7 @@ class Draw @JvmOverloads constructor(
         paint.isAntiAlias=true
 
 
+
         canvas?.let {
 
 
