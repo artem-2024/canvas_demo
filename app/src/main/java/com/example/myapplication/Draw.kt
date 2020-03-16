@@ -23,6 +23,7 @@ class Draw @JvmOverloads constructor(
         paint.color= Color.BLUE
         //设置绘制模式
         paint.style=Paint.Style.STROKE
+
         //线条宽度像素
         paint.strokeWidth=5f
         //抗锯齿,默认关闭，大多数情况建议开启，原理是修改图形边缘处的像素颜色，从而让图形边缘处看上去更加平滑
